@@ -470,7 +470,7 @@ const Footer = ({ bg , extraClass  })=>{
                                                 style: {
                                                     color: "#F7921E"
                                                 },
-                                                children: "Wakali Wa Mbuga"
+                                                children: "shingondefusafaris"
                                             }),
                                             ", All Right Reserved"
                                         ]
@@ -1070,7 +1070,7 @@ const DefaultHeader = ()=>{
                                                                         children: "Office Address"
                                                                     }),
                                                                     /*#__PURE__*/ jsx_runtime.jsx("h5", {
-                                                                        children: "NSSF kaloleni plaza Colonel Middleton road, Arusha"
+                                                                        children: "Karatu, Arusha"
                                                                     })
                                                                 ]
                                                             })
@@ -1101,7 +1101,7 @@ const DefaultHeader = ()=>{
                                                                     /*#__PURE__*/ jsx_runtime.jsx("h5", {
                                                                         children: /*#__PURE__*/ jsx_runtime.jsx("a", {
                                                                             href: "mailto:support@gmail.com",
-                                                                            children: "info@wakaliwambuga.com"
+                                                                            children: "info@shingondefusafaris.com"
                                                                         })
                                                                     })
                                                                 ]
@@ -1132,8 +1132,8 @@ const DefaultHeader = ()=>{
                                                                     }),
                                                                     /*#__PURE__*/ jsx_runtime.jsx("h5", {
                                                                         children: /*#__PURE__*/ jsx_runtime.jsx("a", {
-                                                                            href: "tel:+255753575752",
-                                                                            children: "+255753575752"
+                                                                            href: "tel:+255 762 670 710",
+                                                                            children: "+255 762 670 710"
                                                                         })
                                                                     })
                                                                 ]
@@ -1591,7 +1591,7 @@ const Header3 = ()=>{
                                                                         children: "Office Address"
                                                                     }),
                                                                     /*#__PURE__*/ jsx_runtime.jsx("h5", {
-                                                                        children: "NSSF kaloleni plaza Colonel Middleton road, Arusha"
+                                                                        children: "Karatu, Arusha"
                                                                     })
                                                                 ]
                                                             })
@@ -1621,8 +1621,8 @@ const Header3 = ()=>{
                                                                     }),
                                                                     /*#__PURE__*/ jsx_runtime.jsx("h5", {
                                                                         children: /*#__PURE__*/ jsx_runtime.jsx("a", {
-                                                                            href: "mailto:info@wakaliwambuga.com",
-                                                                            children: "info@wakaliwambuga.com"
+                                                                            href: "mailto:info@shingondefusafaris.com",
+                                                                            children: "info@shingondefusafaris.com"
                                                                         })
                                                                     })
                                                                 ]
@@ -1653,8 +1653,8 @@ const Header3 = ()=>{
                                                                     }),
                                                                     /*#__PURE__*/ jsx_runtime.jsx("h5", {
                                                                         children: /*#__PURE__*/ jsx_runtime.jsx("a", {
-                                                                            href: "tel:+000(123)45688",
-                                                                            children: "+255753575752"
+                                                                            href: "tel:++255 762 670 710",
+                                                                            children: "+255 762 670 710"
                                                                         })
                                                                     })
                                                                 ]

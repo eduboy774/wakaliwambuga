@@ -29,7 +29,7 @@ const DefaultHeader = () => {
                         </div>
                         <div className="info">
                           <span className="title">Office Address</span>
-                          <h5>NSSF kaloleni plaza Colonel Middleton road, Arusha</h5>
+                          <h5>Karatu, Arusha</h5>
                         </div>
                       </div>
                     </div>
@@ -44,7 +44,7 @@ const DefaultHeader = () => {
                           <span className="title">Email Address</span>
                           <h5>
                             <a href="mailto:support@gmail.com">
-                              info@wakaliwambuga.com
+                              info@shingondefusafaris.com
                             </a>
                           </h5>
                         </div>
@@ -60,7 +60,7 @@ const DefaultHeader = () => {
                         <div className="info">
                           <span className="title">Drop a Line</span>
                           <h5>
-                            <a href="tel:+255753575752">+255753575752</a>
+                            <a href="tel:+255 762 670 710">+255 762 670 710</a>
                           </h5>
                         </div>
                       </div>

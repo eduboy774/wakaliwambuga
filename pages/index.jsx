@@ -137,10 +137,10 @@ const Index = () => {
                   feugiat
                 </p> */}
                  <p className="text-start text-break">
-                <strong>Wakali wa Mbuga</strong> is a tourism company specializing in providing exceptional wildlife safari experiences.
+                <strong>Shingondefu Safaris</strong> is a tourism company specializing in providing exceptional wildlife safari experiences.
                 As passionate nature enthusiasts, we are dedicated to creating memorable adventures in the heart of Africa's stunning landscapes. 
                 Our team of experienced guides are experts in their field, ensuring that every journey with us is informative, safe, and filled with wonder.
-                Whether it's exploring vast national parks, encountering majestic wildlife, or immersing in the rich cultural heritage of the region, Wakali wa Mbuga is committed to delivering unparalleled experiences that connect travelers with the natural beauty and diversity of Africa.
+                Whether it's exploring vast national parks, encountering majestic wildlife, or immersing in the rich cultural heritage of the region, Shingondefu  is committed to delivering unparalleled experiences that connect travelers with the natural beauty and diversity of Africa.
                 Join us on an unforgettable journey and let us show you the true essence of the wild.
                 </p>
 

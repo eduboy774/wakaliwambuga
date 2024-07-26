@@ -46,7 +46,7 @@ export default class Home3Slider extends Component {
                   <div className="col-xl-7">
                     {/*=== Hero Content ===*/}
                     <div className="hero-content text-white">
-                      <span className="sub-title">Welcome to WakaliWaMbuga</span>
+                      <span className="sub-title">Welcome to Shingondefu Safaris</span>
                       <h1 data-animation="fadeInDown" data-delay=".4s">
                         Tour Travel &amp; Adventure
                       </h1>
@@ -87,7 +87,7 @@ export default class Home3Slider extends Component {
                   <div className="col-xl-7">
                     {/*=== Hero Content ===*/}
                     <div className="hero-content text-white">
-                      <span className="sub-title">Welcome to WakaliWaMbuga</span>
+                      <span className="sub-title">Welcome to Shingondefu Safaris</span>
                       <h1 data-animation="fadeInDown" data-delay=".4s">
                         Tour Travel &amp; Camping
                       </h1>
@@ -128,7 +128,7 @@ export default class Home3Slider extends Component {
                   <div className="col-xl-7">
                     {/*=== Hero Content ===*/}
                     <div className="hero-content text-white">
-                      <span className="sub-title">Welcome to WakaliWaMbuga</span>
+                      <span className="sub-title">Welcome to Shingondefu Safaris</span>
                       <h1 data-animation="fadeInDown" data-delay=".4s">
                         Tour Travel &amp; Adventure
                       </h1>

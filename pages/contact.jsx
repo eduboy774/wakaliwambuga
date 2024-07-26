@@ -28,7 +28,7 @@ const Contact = () => {
                 </div>
                 <div className="info">
                   <span className="title">Office Location</span>
-                  <p>NSSF kaloleni plaza Colonel Middleton road, Arusha</p>
+                  <p>Karatu, Arusha</p>
                 </div>
               </div>
             </div>
@@ -42,8 +42,8 @@ const Contact = () => {
                   <span className="title">Email Address</span>
                   <p>
 
-                    <a href="mailto:info@wakaliwambuga.com">
-                      info@wakaliwambuga.com
+                    <a href="mailto:info@shingondefusafaris.com">
+                      info@shingondefusafaris.com
                     </a>
                   </p>
                   <p>
@@ -61,7 +61,7 @@ const Contact = () => {
                 <div className="info">
                   <span className="title">Hotline</span>
                   <p>
-                    <a href="tel:+255753575752">++255753575752</a>
+                    <a href="tel:++255762670710">++255762670710</a>
                   </p>
                   <p>
                     <a href="tel:++255767007520">+255767007520</a>

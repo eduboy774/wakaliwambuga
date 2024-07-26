@@ -162,11 +162,11 @@ const About = () => {
               {/*====== Single Team Item ======*/}
               <div className="single-team-item mb-30 wow fadeInUp">
                 <div className="member-img">
-                  <img src="assets/images/team/team-1.jpg" alt="Team Image" />
+                  <img src="assets/images/team/ceo.png" alt="Team Image" />
                 </div>
                 <div className="member-info">
-                  <h4 className="title">Ipyana Tuntufye</h4>
-                  <p className="position">CEO &amp; Founder</p>
+                  <h4 className="title">Emanuel Mayo</h4>
+                  <p className="position">Director &amp; Tour Guide</p>
                   <ul className="social-link">
                     <li>
                       <a href="#">
@@ -196,11 +196,45 @@ const About = () => {
               {/*====== Single Team Item ======*/}
               <div className="single-team-item mb-30 wow fadeInUp">
                 <div className="member-img">
-                  <img src="assets/images/team/team-2.jpg" alt="Team Image" />
+                  <img src="assets/images/team/beatus.png" alt="Team Image" />
                 </div>
                 <div className="member-info">
-                  <h4 className="title">Christian kauzeni</h4>
-                  <p className="position">CEO &amp; Founder</p>
+                  <h4 className="title">Beatus Pantaleo</h4>
+                  <p className="position"> Tour guide</p>
+                  <ul className="social-link">
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-facebook-f" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-twitter" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-instagram" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-linkedin-in" />
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 col-sm-12 ml-5">
+              {/*====== Single Team Item ======*/}
+              <div className="single-team-item mb-30 wow fadeInUp">
+                <div className="member-img">
+                  <img src="assets/images/team/alletour.png" alt="Team Image" />
+                </div>
+                <div className="member-info">
+                  <h4 className="title">Allawi</h4>
+                  <p className="position"> Tour guide</p>
                   <ul className="social-link">
                     <li>
                       <a href="#">

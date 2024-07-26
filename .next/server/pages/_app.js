@@ -78,7 +78,7 @@ function App({ Component , pageProps  }) {
                         content: "width=device-width, initial-scale=1, shrink-to-fit=no"
                     }),
                     /*#__PURE__*/ jsx_runtime.jsx("title", {
-                        children: "WakaliWaMbuga"
+                        children: "ShingondefuSafaris"
                     }),
                     /*#__PURE__*/ jsx_runtime.jsx("link", {
                         rel: "shortcut icon",
