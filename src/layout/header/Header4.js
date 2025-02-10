@@ -13,7 +13,7 @@ const Header4 = () => {
               <Link legacyBehavior href="/">
                 <a className="brand-logo">
                   <img
-                    src="assets/images/logo/logo-black.png"
+                    src="assets/images/logo/logo-black.jpg"
                     alt="Site Logo"
                   />
                 </a>
@@ -26,7 +26,7 @@ const Header4 = () => {
                 <Link legacyBehavior href="/">
                   <a className="brand-logo">
                     <img
-                      src="assets/images/logo/logo-black.png"
+                      src="assets/images/logo/logo-black.jpg"
                       alt="Site Logo"
                     />
                   </a>

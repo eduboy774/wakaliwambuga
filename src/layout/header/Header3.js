@@ -12,7 +12,7 @@ const Header3 = () => {
               <div className="site-brading">
                 <Link legacyBehavior href="/index-3">
                   <a className="brand-logo">
-                    <img src="assets/images/logo/logo-black.png" alt="Logo" />
+                    <img src="assets/images/logo/logo-black.jpg" alt="Logo" width="150" height="100" />
                   </a>
                 </Link>
               </div>

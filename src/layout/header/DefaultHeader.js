@@ -12,7 +12,7 @@ const DefaultHeader = () => {
               <div className="site-brading">
                 <Link legacyBehavior href="/">
                   <a className="brand-logo">
-                    <img src="assets/images/logo/logo-black.png" alt="Logo" />
+                    <img src="assets/images/logo/logo-black.jpg" alt="Logo" />
                   </a>
                 </Link>
               </div>
@@ -81,7 +81,7 @@ const DefaultHeader = () => {
             <div className="site-brading d-block d-xl-none">
               <Link legacyBehavior href="/index-3">
                 <a className="brand-logo">
-                  <img src="assets/images/logo/logo-black.png" alt="Logo" />
+                  <img src="assets/images/logo/logo-black.jpg" alt="Logo" />
                 </a>
               </Link>
             </div>
@@ -92,7 +92,7 @@ const DefaultHeader = () => {
                 <Link legacyBehavior href="/">
                   <a className="brand-logo">
                     <img
-                      src="assets/images/logo/logo-black.png"
+                      src="assets/images/logo/logo-black.jpg"
                       alt="Site Logo"
                     />
                   </a>
